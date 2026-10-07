@@ -1,6 +1,6 @@
 if game.ReplicatedStorage:FindFirstChild("Systems") then
 workspace.FallenPartsDestroyHeight = 0/0
-game:GetService("ReplicatedStorage").Client.Events.LocalNotification:Fire("Deofuscado por tiktok @pdrqa")
+game:GetService("ReplicatedStorage").Client.Events.LocalNotification:Fire("MADE BY ACE1991ACE")
 
 local sg = Instance.new("ScreenGui")
 sg.Name = "WaitNoticeGui"
@@ -852,4 +852,3 @@ local AuraWhiteListDropdown = CombatTab:CreateDropdown({
 	end,
 
 })
-  
